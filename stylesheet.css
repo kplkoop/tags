@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+body{
+   
+        -webkit-hyphens: auto;
+        -moz-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
+        font-family: Verdana, sons-serfif;
+}
+
+
+.sem {
+	font-size: 67%;
+	vertical-align: 33%;
+	display: none;
+	}
+
+.tag {
+	padding-right: 20px;
+	color: #990000;
+}
+
+.tag_n, .tag_h{
+	
+	color: #999999;
+}
+
+.block {
+	padding: 3px;
+	background-color: #DDDDDD;
+}
+
+td {
+	
+	border-bottom: 1px dotted #990000;
+	padding: 10px;
+}
+
+.beschreibung {
+	width: 300px;
+	
+}
+
+h1 {
+	
+	color:#990000;
+}
